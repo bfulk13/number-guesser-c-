@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuesser", "NumberGuesser.csproj", "{8453D507-823A-41B7-8B50-1E25EB49C953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8453D507-823A-41B7-8B50-1E25EB49C953}.Debug|x86.ActiveCfg = Debug|x86
+		{8453D507-823A-41B7-8B50-1E25EB49C953}.Debug|x86.Build.0 = Debug|x86
+		{8453D507-823A-41B7-8B50-1E25EB49C953}.Release|x86.ActiveCfg = Release|x86
+		{8453D507-823A-41B7-8B50-1E25EB49C953}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
